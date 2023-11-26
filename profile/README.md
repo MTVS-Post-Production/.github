@@ -34,7 +34,7 @@
     <td align="center"><a href="https://github.com/JoeHeeJae"><b>조희재</b></td>
   </tr>
     <tr>
-    <td align="center"><strong>Server to Server 데이터 서빙</strong></td>
+    <td align="center"><strong>Backend</strong></td>
     <td align="center"><strong>AI</strong></td>
     <td align="center"><strong>Unreal</strong></td>
     <td align="center"><strong>Unreal</strong></td>
